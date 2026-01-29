@@ -720,7 +720,7 @@
     hiddenItem: {
       hiddenOpenApp: `.OpenInAppButton,.css-rg1dmv,.css-1gapyfo,.css-183aq3r,.css-wfkf2m{${DN}}`,
       hiddenLogo: `.MobileAppHeader-logo,a[aria-label="知乎"]{${DN}}`,
-      hiddenHeader: `.MobileAppHeader,.ColumnPageHeader.Sticky{${DN}}`,
+      hiddenHeader: `.css-1ncvp5r { display: none !important; }`,
       hiddenItemActions: `.TopstoryItem .ContentItem-actions:not(.Sticky),.SearchMain .ContentItem-actions{${DN}}`,
       hiddenBottomSticky: `.ContentItem-actions.Sticky,.css-1tu4yh8{${DN}}`,
       hiddenReward: `.Reward{${DN}}`,
